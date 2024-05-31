@@ -1,10 +1,10 @@
 {
   "realm": "demo",
-  "auth-server-url": "http://sso-keycloak.apps.cluster-7a3f.7a3f.sandbox1023.opentlc.com/auth/",
+  "auth-server-url": "http://keycloak-openshift-demo-nodejs-sso-demo.apps.okd.cloud.local/auth/",
   "ssl-required": "none",
   "resource": "service-nodejs",
   "credentials": {
-    "secret": "5f06415d-01d3-4c2b-8ad3-69e2da42253a"
+    "secret": "vVbPiH0dCsMjUK1LBIZmOlqSp8kdwFUL"
   },
   "confidential-port": 0
 }
